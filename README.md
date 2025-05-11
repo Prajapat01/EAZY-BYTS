@@ -1,3 +1,3 @@
 # EAZY-BYTS
-This is My Frist Git Repository
+This is my Frist Git Repository.
 Author- Prit Prajapati
